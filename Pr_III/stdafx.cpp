@@ -6,6 +6,7 @@
 #include <windows.h>
 #include <gdiplus.h>
 #include "stdafx.h"
+using namespace Gdiplus;
 
 // TODO: odwo³aj siê do dowolnych dodatkowych nag³ówków, których potrzebujesz w pliku STDAFX.H
 // a nie w tym pliku
